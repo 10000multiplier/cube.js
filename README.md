@@ -1,4 +1,4 @@
-
+[![Run on Repl.it](https://repl.it/badge/github/10000multiplier/cube.js)](https://repl.it/github/10000multiplier/cube.js)
 <p align="center"><a href="https://cube.dev"><img src="https://i.imgur.com/zYHXm4o.png" alt="Cube.js" width="300px"></a></p>
 
 [Website](https://cube.dev) • [Docs](https://cube.dev/docs) • [Examples](#examples) • [Blog](https://cube.dev/blog) • [Slack](https://slack.cube.dev) • [Twitter](https://twitter.com/thecubejs)
